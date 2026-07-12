@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://uselessfacts.jsph.pl/
 common:
+  - type: DomainSecurity
+    url: security/random-useless-facts-domain-security.yml
   - type: Website
     url: https://uselessfacts.jsph.pl/
   - type: PublicAPIsListing
