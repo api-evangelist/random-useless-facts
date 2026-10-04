@@ -39,7 +39,6 @@ apis:
   - name: Random Useless Facts
     description: "Get useless, but true facts"
     humanURL: https://uselessfacts.jsph.pl/
-    baseURL: https://uselessfacts.jsph.pl/
     tags:
       - Entertainment
     properties:
